@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\ClassTypes\bin\Debug\net6.0\ClassTypes.exe
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\ClassTypes\bin\Debug\net6.0\ClassTypes.deps.json
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\ClassTypes\bin\Debug\net6.0\ClassTypes.runtimeconfig.json
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\ClassTypes\bin\Debug\net6.0\ClassTypes.dll
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\ClassTypes\bin\Debug\net6.0\ClassTypes.pdb
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\ClassTypes\obj\Debug\net6.0\ClassTypes.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\ClassTypes\obj\Debug\net6.0\ClassTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\ClassTypes\obj\Debug\net6.0\ClassTypes.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\ClassTypes\obj\Debug\net6.0\ClassTypes.AssemblyInfo.cs
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\ClassTypes\obj\Debug\net6.0\ClassTypes.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\ClassTypes\obj\Debug\net6.0\ClassTypes.dll
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\ClassTypes\obj\Debug\net6.0\refint\ClassTypes.dll
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\ClassTypes\obj\Debug\net6.0\ClassTypes.pdb
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\ClassTypes\obj\Debug\net6.0\ClassTypes.genruntimeconfig.cache
+C:\Users\Dell\Desktop\CSIT\6th sem\NCC\ClassTypes\obj\Debug\net6.0\ref\ClassTypes.dll
